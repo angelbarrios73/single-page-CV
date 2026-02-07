@@ -1,0 +1,24 @@
+* {
+  font-family: cursive;
+  color: #1e1e1e;
+}
+h3 {
+  color: #2f9e44;
+}
+h4 {
+  color: #186ebd;
+}
+
+body {
+  width: 700px;
+  margin-left: 2vw;
+}
+
+hr {
+  border: 2px solid rgb(116, 116, 116);
+  border-radius: 10px;
+}
+
+nav {
+  padding-bottom: 5vh;
+}
